@@ -4,3 +4,8 @@
    * [Aya 001_001](HolyQuran/001_001.md)
    * [Aya 001_002](HolyQuran/001_002.md)
    * [Aya 001_003](HolyQuran/001_003.md)
+   * [Aya 001_004](HolyQuran/001_004.md)
+   * [Aya 001_005](HolyQuran/001_005.md)
+   * [Aya 001_006](HolyQuran/001_006.md)
+   * [Aya 001_007](HolyQuran/001_007.md)
+  * [Sura 002](HolyQuran/002.md)
