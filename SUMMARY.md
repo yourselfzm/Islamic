@@ -11,3 +11,7 @@
   * [Sura 002](HolyQuran/002.md)
    * [Aya 002_001](HolyQuran/002_001.md)
    * [Aya 002_002](HolyQuran/002_002.md)
+   * [Aya 002_003](HolyQuran/002_003.md)
+   * [Aya 002_004](HolyQuran/002_004.md)
+   * [Aya 002_005](HolyQuran/002_005.md)
+   * [Aya 002_006](HolyQuran/002_006.md)
