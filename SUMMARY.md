@@ -15,3 +15,7 @@
    * [Aya 002_004](HolyQuran/002_004.md)
    * [Aya 002_005](HolyQuran/002_005.md)
    * [Aya 002_006](HolyQuran/002_006.md)
+   * [Aya 002_007](HolyQuran/002_007.md)
+   * [Aya 002_008](HolyQuran/002_008.md)
+   * [Aya 002_009](HolyQuran/002_009.md)
+   * [Aya 002_010](HolyQuran/002_010.md)
