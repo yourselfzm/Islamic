@@ -54,3 +54,13 @@
    * [Aya 002:043](HolyQuran/002_043.md)
    * [Aya 002:044](HolyQuran/002_044.md)
    * [Aya 002:045](HolyQuran/002_045.md)
+   * [Aya 002:046](HolyQuran/002_046.md)
+   * [Aya 002:047](HolyQuran/002_047.md)
+   * [Aya 002:048](HolyQuran/002_048.md)
+   * [Aya 002:049](HolyQuran/002_049.md)
+   * [Aya 002:050](HolyQuran/002_050.md)
+   * [Aya 002:051](HolyQuran/002_051.md)
+   * [Aya 002:052](HolyQuran/002_052.md)
+   * [Aya 002:053](HolyQuran/002_053.md)
+   * [Aya 002:054](HolyQuran/002_054.md)
+
