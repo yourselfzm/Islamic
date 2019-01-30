@@ -1,4 +1,4 @@
-# Summary
+# SUMMARY
 * [Holy Quran](HolyQuran/README.md)
   * [Sura 001](HolyQuran/001.md)
    * [Aya 001:001](HolyQuran/001_001.md)
@@ -63,4 +63,13 @@
    * [Aya 002:052](HolyQuran/002_052.md)
    * [Aya 002:053](HolyQuran/002_053.md)
    * [Aya 002:054](HolyQuran/002_054.md)
+   * [Aya 002:055](HolyQuran/002_055.md)
+   * [Aya 002:056](HolyQuran/002_056.md)
+   * [Aya 002:057](HolyQuran/002_057.md)
+   * [Aya 002:058](HolyQuran/002_058.md)
+   * [Aya 002:059](HolyQuran/002_059.md)
+   * [Aya 002:060](HolyQuran/002_060.md)
+   * [Aya 002:061](HolyQuran/002_061.md)
+   * [Aya 002:062](HolyQuran/002_062.md)
+   * [Aya 002:063](HolyQuran/002_063.md)
 
