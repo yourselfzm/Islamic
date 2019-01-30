@@ -72,4 +72,13 @@
    * [Aya 002:061](HolyQuran/002_061.md)
    * [Aya 002:062](HolyQuran/002_062.md)
    * [Aya 002:063](HolyQuran/002_063.md)
+   * [Aya 002:064](HolyQuran/002_064.md)
+   * [Aya 002:065](HolyQuran/002_065.md)
+   * [Aya 002:066](HolyQuran/002_066.md)
+   * [Aya 002:067](HolyQuran/002_067.md)
+   * [Aya 002:068](HolyQuran/002_068.md)
+   * [Aya 002:069](HolyQuran/002_069.md)
+   * [Aya 002:070](HolyQuran/002_070.md)
+   * [Aya 002:071](HolyQuran/002_071.md)
+   * [Aya 002:072](HolyQuran/002_072.md)
 
