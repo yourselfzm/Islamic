@@ -81,4 +81,12 @@
    * [Aya 002:070](HolyQuran/002_070.md)
    * [Aya 002:071](HolyQuran/002_071.md)
    * [Aya 002:072](HolyQuran/002_072.md)
-
+   * [Aya 002:073](HolyQuran/002_073.md)
+   * [Aya 002:074](HolyQuran/002_074.md)
+   * [Aya 002:075](HolyQuran/002_075.md)
+   * [Aya 002:076](HolyQuran/002_076.md)
+   * [Aya 002:077](HolyQuran/002_077.md)
+   * [Aya 002:078](HolyQuran/002_078.md)
+   * [Aya 002:079](HolyQuran/002_079.md)
+   * [Aya 002:080](HolyQuran/002_080.md)
+   * [Aya 002:081](HolyQuran/002_081.md)
