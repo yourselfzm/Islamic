@@ -99,3 +99,13 @@
    * [Aya 002:088](HolyQuran/002_088.md)
    * [Aya 002:089](HolyQuran/002_089.md)
    * [Aya 002:090](HolyQuran/002_090.md)
+   * [Aya 002:091](HolyQuran/002_091.md)
+   * [Aya 002:092](HolyQuran/002_092.md)
+   * [Aya 002:093](HolyQuran/002_093.md)
+   * [Aya 002:094](HolyQuran/002_094.md)
+   * [Aya 002:095](HolyQuran/002_095.md)
+   * [Aya 002:096](HolyQuran/002_096.md)
+   * [Aya 002:097](HolyQuran/002_097.md)
+   * [Aya 002:098](HolyQuran/002_098.md)
+   * [Aya 002:099](HolyQuran/002_099.md)
+
