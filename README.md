@@ -8,4 +8,5 @@
       ——萨迪
 ```
 
-> Site is published at <https://9921.gitbook.io/1/>
+> Site is published at <https://9921.gitbook.io/>
+
