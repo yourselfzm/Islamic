@@ -130,4 +130,5 @@
    * [Aya 002:119](HolyQuran/002_119.md)
    * [Aya 002:120](HolyQuran/002_120.md)
    * [Aya 002:121](HolyQuran/002_121.md)
+   * [Aya 002:122](HolyQuran/002_122.md)
 
