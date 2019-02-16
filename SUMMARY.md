@@ -136,4 +136,5 @@
    * [Aya 002:125](HolyQuran/002_125.md)
    * [Aya 002:126](HolyQuran/002_126.md)
    * [Aya 002:127](HolyQuran/002_127.md)
+   * [Aya 002:128](HolyQuran/002_128.md)
 
