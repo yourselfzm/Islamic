@@ -143,4 +143,5 @@
    * [Aya 002:132](HolyQuran/002_132.md)
    * [Aya 002:133](HolyQuran/002_133.md)
    * [Aya 002:134](HolyQuran/002_134.md)
+   * [Aya 002:135](HolyQuran/002_135.md)
 
