@@ -147,4 +147,5 @@
    * [Aya 002:136](HolyQuran/002_136.md)
    * [Aya 002:137](HolyQuran/002_137.md)
    * [Aya 002:138](HolyQuran/002_138.md)
+   * [Aya 002:139](HolyQuran/002_139.md)
 
