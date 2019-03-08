@@ -1,0 +1,25 @@
+![002:145](images/002_145.gif)
+
+# 
+
+## 
+
+## 翻译(Translation)：
+
+| Translator | 译文(Translation) |
+| :--------: | ----------------- |
+|    马坚    |                   |
+|  YUSUFALI  |                   |
+|  PICKTHAL  |                   |
+|   SHAKIR   |                   |
+
+---
+
+## 对位释义(Words Interpretation)：
+
+| No   | العربية | 中文    | English | 曾用词 |
+| ---- | ------: | ------- | ------- | ------ |
+| 序号 |    阿文 | Chinese | 英文    | Used   |
+|      |         |         |         |        |
+
+---
