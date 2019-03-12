@@ -159,4 +159,5 @@
    * [Aya 002:148](HolyQuran/002_148.md)
    * [Aya 002:149](HolyQuran/002_149.md)
    * [Aya 002:150](HolyQuran/002_150.md)
+   * [Aya 002:151](HolyQuran/002_151.md)
 
