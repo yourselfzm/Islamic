@@ -162,4 +162,5 @@
    * [Aya 002:151](HolyQuran/002_151.md)
    * [Aya 002:152](HolyQuran/002_152.md)
    * [Aya 002:153](HolyQuran/002_153.md)
+   * [Aya 002:154](HolyQuran/002_154.md)
 
