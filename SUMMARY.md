@@ -177,4 +177,5 @@
    * [Aya 002:166](HolyQuran/002_166.md)
    * [Aya 002:167](HolyQuran/002_167.md)
    * [Aya 002:168](HolyQuran/002_168.md)
+   * [Aya 002:169](HolyQuran/002_169.md)
 
