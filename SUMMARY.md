@@ -180,4 +180,5 @@
    * [Aya 002:169](HolyQuran/002_169.md)
    * [Aya 002:170](HolyQuran/002_170.md)
    * [Aya 002:171](HolyQuran/002_171.md)
+   * [Aya 002:172](HolyQuran/002_172.md)
 
