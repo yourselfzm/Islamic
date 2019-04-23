@@ -193,4 +193,5 @@
    * [Aya 002:182](HolyQuran/002_182.md)
    * [Aya 002:183](HolyQuran/002_183.md)
    * [Aya 002:184](HolyQuran/002_184.md)
+   * [Aya 002:185](HolyQuran/002_185.md)
 
