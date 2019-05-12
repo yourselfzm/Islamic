@@ -206,4 +206,5 @@
    * [Aya 002:195](HolyQuran/002_195.md)
    * [Aya 002:196](HolyQuran/002_196.md)
    * [Aya 002:197](HolyQuran/002_197.md)
+   * [Aya 002:198](HolyQuran/002_198.md)
 
