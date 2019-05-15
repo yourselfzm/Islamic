@@ -209,4 +209,5 @@
    * [Aya 002:198](HolyQuran/002_198.md)
    * [Aya 002:199](HolyQuran/002_199.md)
    * [Aya 002:200](HolyQuran/002_200.md)
+   * [Aya 002:201](HolyQuran/002_201.md)
 
