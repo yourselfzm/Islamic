@@ -224,4 +224,5 @@
    * [Aya 002:213](HolyQuran/002_213.md)
    * [Aya 002:214](HolyQuran/002_214.md)
    * [Aya 002:215](HolyQuran/002_215.md)
+   * [Aya 002:216](HolyQuran/002_216.md)
 
