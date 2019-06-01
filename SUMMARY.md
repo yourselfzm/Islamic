@@ -237,4 +237,5 @@
    * [Aya 002:226](HolyQuran/002_226.md)
    * [Aya 002:227](HolyQuran/002_227.md)
    * [Aya 002:228](HolyQuran/002_228.md)
+   * [Aya 002:229](HolyQuran/002_229.md)
 
