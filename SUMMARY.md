@@ -251,4 +251,5 @@
    * [Aya 002:240](HolyQuran/002_240.md)
    * [Aya 002:241](HolyQuran/002_241.md)
    * [Aya 002:242](HolyQuran/002_242.md)
+   * [Aya 002:243](HolyQuran/002_243.md)
 
