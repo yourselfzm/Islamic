@@ -388,4 +388,13 @@
    * [Aya 003:090](HolyQuran/003_090.md)
    * [Aya 003:091](HolyQuran/003_091.md)
    * [Aya 003:092](HolyQuran/003_092.md)
+   * [Aya 003:093](HolyQuran/003_093.md)
+   * [Aya 003:094](HolyQuran/003_094.md)
+   * [Aya 003:095](HolyQuran/003_095.md)
+   * [Aya 003:096](HolyQuran/003_096.md)
+   * [Aya 003:097](HolyQuran/003_097.md)
+   * [Aya 003:098](HolyQuran/003_098.md)
+   * [Aya 003:099](HolyQuran/003_099.md)
+   * [Aya 003:100](HolyQuran/003_100.md)
+
 
