@@ -426,6 +426,17 @@
    * [Aya 003:128](HolyQuran/003_128.md)
    * [Aya 003:129](HolyQuran/003_129.md)
    * [Aya 003:130](HolyQuran/003_130.md)
+   * [Aya 003:131](HolyQuran/003_131.md)
+   * [Aya 003:132](HolyQuran/003_132.md)
+   * [Aya 003:133](HolyQuran/003_133.md)
+   * [Aya 003:134](HolyQuran/003_134.md)
+   * [Aya 003:135](HolyQuran/003_135.md)
+   * [Aya 003:136](HolyQuran/003_136.md)
+   * [Aya 003:137](HolyQuran/003_137.md)
+   * [Aya 003:138](HolyQuran/003_138.md)
+   * [Aya 003:139](HolyQuran/003_139.md)
+   * [Aya 003:140](HolyQuran/003_140.md)
+
 
 
 
