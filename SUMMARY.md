@@ -486,6 +486,14 @@
    * [Aya 003:188](HolyQuran/003_188.md)
    * [Aya 003:189](HolyQuran/003_189.md)
    * [Aya 003:190](HolyQuran/003_190.md)
-
-
+   * [Aya 003:191](HolyQuran/003_191.md)
+   * [Aya 003:192](HolyQuran/003_192.md)
+   * [Aya 003:193](HolyQuran/003_193.md)
+   * [Aya 003:194](HolyQuran/003_194.md)
+   * [Aya 003:195](HolyQuran/003_195.md)
+   * [Aya 003:196](HolyQuran/003_196.md)
+   * [Aya 003:197](HolyQuran/003_197.md)
+   * [Aya 003:198](HolyQuran/003_198.md)
+   * [Aya 003:199](HolyQuran/003_199.md)
+   * [Aya 003:200](HolyQuran/003_200.md)
 
