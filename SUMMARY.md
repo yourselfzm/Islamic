@@ -517,5 +517,14 @@
    * [Aya 004:018](HolyQuran/004_018.md)
    * [Aya 004:019](HolyQuran/004_019.md)
    * [Aya 004:020](HolyQuran/004_020.md)
-
+   * [Aya 004:021](HolyQuran/004_021.md)
+   * [Aya 004:022](HolyQuran/004_022.md)
+   * [Aya 004:023](HolyQuran/004_023.md)
+   * [Aya 004:024](HolyQuran/004_024.md)
+   * [Aya 004:025](HolyQuran/004_025.md)
+   * [Aya 004:026](HolyQuran/004_026.md)
+   * [Aya 004:027](HolyQuran/004_027.md)
+   * [Aya 004:028](HolyQuran/004_028.md)
+   * [Aya 004:029](HolyQuran/004_029.md)
+   * [Aya 004:030](HolyQuran/004_030.md)
 
