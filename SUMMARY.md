@@ -774,5 +774,27 @@
    * [Aya 005:098](HolyQuran/005_098.md)
    * [Aya 005:099](HolyQuran/005_099.md)
    * [Aya 005:100](HolyQuran/005_100.md)
+   * [Aya 005:101](HolyQuran/005_101.md)
+   * [Aya 005:102](HolyQuran/005_102.md)
+   * [Aya 005:103](HolyQuran/005_103.md)
+   * [Aya 005:104](HolyQuran/005_104.md)
+   * [Aya 005:105](HolyQuran/005_105.md)
+   * [Aya 005:106](HolyQuran/005_106.md)
+   * [Aya 005:107](HolyQuran/005_107.md)
+   * [Aya 005:108](HolyQuran/005_108.md)
+   * [Aya 005:109](HolyQuran/005_109.md)
+   * [Aya 005:110](HolyQuran/005_110.md)
+   * [Aya 005:111](HolyQuran/005_111.md)
+   * [Aya 005:112](HolyQuran/005_112.md)
+   * [Aya 005:113](HolyQuran/005_113.md)
+   * [Aya 005:114](HolyQuran/005_114.md)
+   * [Aya 005:115](HolyQuran/005_115.md)
+   * [Aya 005:116](HolyQuran/005_116.md)
+   * [Aya 005:117](HolyQuran/005_117.md)
+   * [Aya 005:118](HolyQuran/005_118.md)
+   * [Aya 005:119](HolyQuran/005_119.md)
+   * [Aya 005:120](HolyQuran/005_120.md)
+
+
 
 
