@@ -1,5 +1,7 @@
-
 # [Sūra I.: Fātiḥa, or the Opening Chapter.](001.md)
-
 # [Sūra II.: Baqara, or the Heifer.](002.md)
-
+# [Sūra III. Āl-i-’Imrān, or The Family of ’Imrān](003.md)
+# [Sūra IV. Nisāa, or The Women](004.md)
+# [Sūra V. Māïda, or The Table Spread.](005.md)
+# [Sūra VI. An’ām, or Cattle](006.md)
+# [Sūra VII. A’rāf, or the Heights](007.md)
